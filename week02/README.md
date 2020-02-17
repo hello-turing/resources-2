@@ -5,7 +5,7 @@
 
 ### Platforms
 -------------
-- [Leetcode](https://leetcode.co- m/ "LC")
+- [Leetcode](https://leetcode.com/ "LC")
 - [Codeforces](https://codeforces.com/"CF")
 - [CodeSignal](https://codesignal.com/"CF")
 - [HackeRank](https://www.hackerrank.com/"CF")
